@@ -241,16 +241,13 @@ Focused on building performant, cross-browser SSR frontends with clean, reusable
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=4mankhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=B794F6&icon_color=8A2BE2&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=4mankhan&theme=tokyonight&hide_border=true&background=0d1117&stroke=8A2BE2&ring=B794F6&fire=B794F6&currStreakLabel=B794F6" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4mankhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=B794F6&text_color=c9d1d9" width="60%"/>
-
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=4mankhan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</a>
 </div>
 
 ---
 
----
 
 ## 🎯 Current Focus
 
