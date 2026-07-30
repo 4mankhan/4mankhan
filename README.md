@@ -12,18 +12,16 @@
 ![Location](https://img.shields.io/badge/Based%20in-Delhi%20NCR%2C%20India-6A5ACD?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a2e)
 
 <br/>
-
 <a href="https://amankhan.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-7F5AF0?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-7F5AF0?style=for-the-badge&logo=globe&logoColor=white"/>
 </a>
+
 <a href="https://linkedin.com/in/4mankhan">
-  <img src="https://img.shields.io/badge/LinkedIn-6C5CE7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-7F5AF0?style=for-the-badge&logo=linkedin-white&logoColor=white"/>
 </a>
+
 <a href="mailto:amankhan280401@gmail.com">
-  <img src="https://img.shields.io/badge/Email-9370DB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/>
-</a>
-<a href="https://github.com/4mankhan">
-  <img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Email-7F5AF0?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
